@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[vranimation]]></title>
         <description><![CDATA[vranimation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vranimation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 01:22:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 01:23:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vranimation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Happens Inside Your Body? - VR 360°]]></title>
+            <description><![CDATA[<article><h1>What Happens Inside Your Body? - VR 360°</h1><p>Take a journey through the human body in Virtual Reality with Life Noggin! HOW TO WATCH: Watch it with maximum quality with the updated youtube app on your mobile device or on your desktop with Chrome. Simply tilt or swipe your finer on your phone, or drag your mouse around or use the wasd keys in Chrome to look around the space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91cb281cdbd561bb20acb87804dcfd7901e7a168.jpg"></article>]]></description>
+            <link>https://youtu.be/-FyN5_-njAU</link>
+            <guid isPermaLink="false">8a6e926b-ae0d-40f1-a521-aeac15dea46b</guid>
+            <pubDate>Sun, 13 Dec 2015 01:23:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Happens Inside Your Body? - VR 360°]]></title>
             <description><![CDATA[<article><h1>What Happens Inside Your Body? - VR 360°</h1><p>attn if you have cardboard or other stereo vr setup... want to find more vr animation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91cb281cdbd561bb20acb87804dcfd7901e7a168.jpg"></article>]]></description>
