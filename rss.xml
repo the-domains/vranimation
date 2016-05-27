@@ -4,11 +4,18 @@
         <description><![CDATA[vranimation]]></description>
         <link>https://thegrid.ai/vranimation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 17:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 18:23:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vranimation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Optical Circuit (encoded as a 360 degree spherical video)]]></title>
+            <description><![CDATA[<article><h1>Optical Circuit (encoded as a 360 degree spherical video)</h1><p>A 360 degree spherical video for Google Chrome Browser. The original version (demoscene PC 4K Intro) is here. https://www.youtube.com/watch?v=ZT_rlKRT4K8 http://www.pouet.net/prod.php?which=65125</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/affc79d22850306854d1f35c3c2a82fd79f7a70a.jpg"></article>]]></description>
+            <link>https://youtu.be/cysULs55uBs</link>
+            <guid isPermaLink="false">e9698625-b286-4152-be96-9fc651681443</guid>
+            <pubDate>Fri, 27 May 2016 18:23:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[360° meet the largest dinosaur ever discovered - Attenborough and the Giant Dinosaur - BBC One]]></title>
-            <description><![CDATA[<article><h1>360° meet the largest dinosaur ever discovered - Attenborough and the Giant Dinosaur - BBC One</h1><p>Programme website: http://bbc.in/1OpMiMh David Attenborough meets the biggest animal ever to walk on Earth, in 360 - a Titanosaur. Produced by the BBC Natural History Unit and Hello Charlie</p></article>]]></description>
+            <description><![CDATA[<article><h1>360° meet the largest dinosaur ever discovered - Attenborough and the Giant Dinosaur - BBC One</h1><p>Programme website: http://bbc.in/1OpMiMh David Attenborough meets the biggest animal ever to walk on Earth, in 360 - a Titanosaur. Produced by the BBC Natural History Unit and Hello Charlie</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dac93e80d39be080bfc29e1c1285040b149b6b6.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=rfh-64s5va4</link>
             <guid isPermaLink="false">b8e1a4b4-781d-4e0a-beb0-4fdfbe74ec79</guid>
             <pubDate>Wed, 24 Feb 2016 17:46:27 GMT</pubDate>
@@ -50,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[Machine VR by Julius Horsthuis]]></title>
-            <description><![CDATA[<article><h1>Machine VR by Julius Horsthuis</h1><p>​Fractal fly-throughs can be boring - so I made this one extra long to make sure you would get super bored. That is unless you start to forget the world around you and let your imagination fill in the fractal void. Every nook and cranny will start to come alive - have a purpose.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96bd7ee4ed08cd772b4e3eae7c6ec8219b6c5db1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Machine VR by Julius Horsthuis</h1><p>​Fractal fly-throughs can be boring - so I made this one extra long to make sure you would get super bored. That is unless you start to forget the world around you and let your imagination fill in the fractal void. Every nook and cranny will start to come alive - have a purpose.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/041c6832086cc0fe18f88efbee05ddc78278b181.jpg"></article>]]></description>
             <link>https://youtu.be/zanPG1lQJn0</link>
             <guid isPermaLink="false">77571b7a-9704-416a-896a-0c941711978e</guid>
             <pubDate>Sun, 13 Dec 2015 02:44:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/zkRhq-cKTKU</link>
             <guid isPermaLink="false">9c0bb8f0-836b-470f-a2e9-152ed6a97819</guid>
             <pubDate>Sun, 13 Dec 2015 02:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What Happens Inside Your Body? - VR 360°]]></title>
-            <description><![CDATA[<article><h1>What Happens Inside Your Body? - VR 360°</h1><p>Take a journey through the human body in Virtual Reality with Life Noggin! HOW TO WATCH: Watch it with maximum quality with the updated youtube app on your mobile device or on your desktop with Chrome. Simply tilt or swipe your finer on your phone, or drag your mouse around or use the wasd keys in Chrome to look around the space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/775949940258a639450330924002d7bdd94bec94.jpg"></article>]]></description>
-            <link>https://youtu.be/-FyN5_-njAU</link>
-            <guid isPermaLink="false">8a6e926b-ae0d-40f1-a521-aeac15dea46b</guid>
-            <pubDate>Sun, 13 Dec 2015 01:23:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
